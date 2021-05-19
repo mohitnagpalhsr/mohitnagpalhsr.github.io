@@ -1,0 +1,337 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F2F6FF;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+nav{
+    margin: 2rem;
+}
+
+#symbol{
+    position: relative;
+    top: 1rem;
+    left: 5rem;
+}
+
+#name{
+    font-size: 2.5rem;
+    font-weight: bold;
+    position: relative;
+    left: 6rem;
+}
+
+
+#header-middle{
+    font-size: 1.2rem;
+    position: relative;
+    left: 30rem;
+    padding: 2rem;
+    color: #7F8DA0;
+}
+
+#login{
+    position: relative;
+    left: 46rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+#register{
+    position: relative;
+    font-size: 1.2rem;
+    left: 49rem;
+    color: #6BC37C;
+    font-weight: bold;
+}
+
+#hr-1{
+    display: inline-block;
+    position: relative;
+    left: 7rem;
+    top: 2rem;
+}
+
+#mini-head{
+    position: relative;
+    top: 4.8rem;
+    left: 2.5rem;
+    color: #7F8DA0;
+}
+
+#Deliciosas{
+    color: #6BC37C;
+}
+
+#main-head{
+    display: inline-block;
+    position: relative;
+    font-weight: bold;
+    top: 7rem;
+    left: 6.5rem;
+    font-size: 4rem;
+}
+
+#description{
+    display: inline-block;
+    position: relative;
+    left: -29.5rem;
+    top: 12rem;
+    color: #7F8DA0;
+}
+
+#circle-1{
+    position: absolute;
+    right: 40rem;
+    top: 15rem;
+}
+
+#first-screen{
+    position:absolute;
+    right: 34rem;
+    top: 2rem;
+}
+
+#first-screen-mini{
+    position: absolute;
+    right: 23.5rem;
+    box-shadow: none;
+}
+
+#second-screen{
+    position: absolute;
+    top: 15rem;
+    right: 13rem;
+}
+
+#second-screen-mini{
+    position: absolute;
+    top: 37rem;
+    right: 3rem;
+}
+
+#rectangle-1{
+    display: inline-block;
+    position: absolute;
+    left: 105rem;
+    bottom: 10rem;
+}
+
+#download-button{
+    position: absolute;
+    top: 40rem;
+    left: 7rem;
+}
+
+#apple{
+    position: relative;
+    top: 17.5rem;
+    left: -35rem;
+}
+
+#android{
+    position: relative;
+    top: 17.5rem;
+    left: -32rem;
+}
+
+#social-media{
+    position: absolute;
+    top: 55rem;
+    left: 7.5rem;
+    color: #7F8DA0;
+}
+
+#instagram-txt{
+    color: #6BC37C;
+}
+
+#pentagon-1{
+    position: relative;
+    top: 45rem ;
+    left: 10rem;
+}
+
+#ensalada{
+    position: relative;
+    top: 25rem;
+    left: -18rem;
+}
+
+#ensalada-txt-1{
+    position: relative;
+    top: 27rem;
+    left: -35rem;
+}
+
+#ensalada-txt-2{
+    position: relative;
+    top: 33rem;
+    left: -53rem;
+}
+
+#circular-arrow-1{
+    position: relative;
+    top: 38rem;
+    left: -53rem;
+}
+
+#pentagon-2{
+    position: relative;
+    top: 55rem ;
+    left: -48rem;
+}
+
+#ensalada-con{
+    position: relative;
+    left: 40rem;
+    top: 13rem;
+}
+
+#ensalada-con-txt-1{
+    position: relative;
+    top: 18rem;
+    left: 25rem;
+}
+
+#ensalada-con-txt-2{
+    position: relative;
+    top: 23rem;
+    left: 7rem;
+}
+
+#circular-arrow-2{
+    position: relative;
+    top: 30rem;
+    left: 8rem;
+}
+
+#hr-2{
+    position: relative;
+    top: -8rem;
+    left: 13.5rem;
+}
+
+#head-1{
+    position: relative;
+    font-weight: bold;
+    font-size: 3rem;
+    left: 65rem;
+    top: -5rem;
+}
+
+#description-1{
+    display: inline-block;
+    position: relative;
+    left: 65rem;
+    bottom: 20rem;
+    color: #7F8DA0;
+}
+
+#circle-2{
+    position: relative;
+    left: 90rem;
+    bottom: 12rem;
+}
+
+#rectangle-2{
+    position: relative;
+    right: 48rem;
+    bottom: 35rem;
+}
+
+#hr-3{
+    position: relative;
+    bottom: 58rem;
+    right: 52rem;
+}
+
+#head-2{
+    position: relative;
+    font-weight: bold;
+    font-size: 3rem;
+    left: 17rem;
+    bottom: 55rem;
+}
+
+#description-2{
+    display: inline-block;
+    position: relative;
+    left: 17rem;
+    bottom: 120rem;
+    color: #7F8DA0;
+}
+
+#square{
+    position:relative;
+    bottom: 90rem;
+    left: 45rem;
+}
+
+#third-screen{
+    position: relative;
+    bottom: 160rem;
+    left: 55rem;
+}
+
+table{
+    position:relative;
+    bottom: 2.8rem;
+    left: 30rem;
+}
+
+footer{
+    position: relative;
+    bottom: 150rem;
+}
+
+td{
+    color: #7F8DA0;
+    padding-left: 10rem;
+    padding-bottom: 1rem;
+    padding-right: 7rem;
+    font-size: 1.5rem;
+}
+
+#symbol-1{
+    position: relative;
+    top: 1rem;
+    left: 10rem;
+}
+
+#name-1{
+    font-size: 3.3rem;
+    font-weight: bold;
+    position: relative;
+    left: 12.5rem;
+}
+
+#tu-app{
+    position: relative;
+    font-size: 1.8rem;
+    font-weight: bold;
+    bottom: 10rem;
+    left: 95rem;
+}
+
+
+#social-media-symbols{
+    position: relative;
+    padding: 1rem;
+    bottom: 22rem;
+    left: 93.5rem;
+}
+
+#copyright{
+    position: relative;
+    font-size: 1.8rem;
+    left: 10rem;
+    bottom: 10rem;
+}
+
+@media screen and (max-width: 600px) {
+    nav{
+        overflow: hidden;
+    }
+  }
